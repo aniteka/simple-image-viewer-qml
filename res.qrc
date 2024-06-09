@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="qml" prefix="/">
+        <file>main.qml</file>
+        <file>FileView.qml</file>
+        <file>transparent.png</file>
+    </qresource>
+</RCC>
